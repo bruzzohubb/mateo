@@ -1,0 +1,13 @@
+* { font-family: roboto; }
+
+body {
+    background-color: burlywood;
+}
+
+h1 {font-family: 'Times New Roman', Times, serif; color: red;}
+        
+h2 {
+    font-family: arial; 
+    font-size: 20px; 
+    color: #e0470b;
+}
